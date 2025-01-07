@@ -1,0 +1,2 @@
+# StockMate
+Easy Stock Management
